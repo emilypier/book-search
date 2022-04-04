@@ -7,23 +7,21 @@
 
 * [Usage](#usage)
 
-* [License](#license)
-
 * [Built With](#built-with)
+
+* [License](#license)
 
 * [Questions](#questions)
 
 ## Description 
-A MERN app that allows users to search for books and save books that sound interesting to them. 
+A MERN app that allows users to create and sign into an account. While logged in users can search for books and save books that sound interesting to them or remove them later. 
 
 ## Usage
-Visit the [site]( link )!
+Visit the deployed application [here]( link )! (coming soon)
 
-![The Book Search Engine website.](/client/public/deep-thoughts.png)
+image of application coming soon.
+<!-- ![The Book Search Engine website.](/client/public/deep-thoughts.png) -->
 
-
-## License
-This application is covered under MIT license.
 
 ## Built With
 * JavaScript
@@ -34,6 +32,9 @@ This application is covered under MIT license.
 * React Router
 * GraphQL
 * Apollo Server
+
+## License
+This application is covered under MIT license.
 
 ## Questions
 Made by Emily Pierson.

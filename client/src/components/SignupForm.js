@@ -30,7 +30,7 @@ const SignupForm = () => {
     }
 
     try {
-      //add user to database with function from utils/mutation.js
+      //add user to database
       const response = await addUser(userFormData);
 
       if (!response.ok) {
