@@ -19,10 +19,9 @@
 A MERN app that allows users to create and sign into an account. While logged in users can search for books and save books that sound interesting to them or remove them later. 
 
 ## Usage
-Visit the deployed application [here]( link )! (coming soon)
+Visit the deployed application [here](https://serene-reaches-18274.herokuapp.com/)! 
 
-image of application coming soon.
-<!-- ![The Book Search Engine website.](/client/public/deep-thoughts.png) -->
+![The Book Search Engine website.](/client/images/book-search.png)
 
 ## Built With
 * JavaScript
