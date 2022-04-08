@@ -9,6 +9,8 @@
 
 * [Built With](#built-with)
 
+* [Contribution](#contribution)
+
 * [License](#license)
 
 * [Questions](#questions)
@@ -22,7 +24,6 @@ Visit the deployed application [here]( link )! (coming soon)
 image of application coming soon.
 <!-- ![The Book Search Engine website.](/client/public/deep-thoughts.png) -->
 
-
 ## Built With
 * JavaScript
 * Express.js
@@ -32,6 +33,9 @@ image of application coming soon.
 * React Router
 * GraphQL
 * Apollo Server
+
+## Contribution
+This application was previously using a REST API, but I converted it to use GraphQL instead.
 
 ## License
 This application is covered under MIT license.
